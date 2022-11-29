@@ -42,3 +42,13 @@ let obj = {
   },
 };
  obj.func()
+
+ a
+
+ obj.func2 = () => {b=50; console.log(b)}
+ obj.func2()
+
+ obj.func3 = () => {let c = 50; console.log(c)}
+ obj.func3()
+
+ 
