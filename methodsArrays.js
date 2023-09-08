@@ -64,5 +64,6 @@ const reduce = arrBase.reduce((acc, curr) => acc = acc + curr.a, 0)
 console.log(filtered)
 console.log(find)
 console.log(reduce)
+console.log(maped)
 
 debugger
